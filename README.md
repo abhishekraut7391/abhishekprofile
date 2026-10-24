@@ -3,7 +3,8 @@
 This repository contains an earlier profile README. My main GitHub profile and current project links are maintained here:
 
 - **GitHub profile:** https://github.com/abhishekraut7391
-- **Portfolio website:** https://abhishekrautportfolio.space-z.ai
+- **Portfolio website (Vercel):** https://abhishek-portfolio-et4h.vercel.app/
+- **Previous hosted portfolio:** https://abhishekrautportfolio.space-z.ai
 - **LinkedIn:** https://www.linkedin.com/in/abhishek-raut-372021311/
 - **Email:** abhishekraut165@gmail.com
 
